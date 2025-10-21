@@ -1,5 +1,5 @@
 package uebung01;
 
-public class Main {
+public class Angela {
 
 }
